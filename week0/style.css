@@ -1,4 +1,7 @@
+html{
 
+background: #777;
+}
 h1,h2{
 color:white;
 background-color:blue;
@@ -11,4 +14,12 @@ padding: 25px 50px 75px 100px;
 p{
 font-family: 'Times New Roman', Times, serif;
 font-size: 20px;
+line-height: 1.6;
+}
+body{
+background: white;
+width: 70%;
+margin: 0 auto;
+border-bottom: 10px solid gold;
+
 }
