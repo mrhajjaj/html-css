@@ -3,6 +3,7 @@ html{
 background: #777;
 }
 h1,h2{
+font-style: italic;
 color:white;
 background-color:blue;
 
